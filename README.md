@@ -125,4 +125,4 @@ kaggel
 
 **Readme file** : readme.so
 
-**linkdin profile** : www.linkedin.com/in/charan-r-b04875358
+**linkedin profile** : www.linkedin.com/in/charan-r-b04875358
