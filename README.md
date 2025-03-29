@@ -124,3 +124,4 @@ kaggel
 **Tool used** : Power bi
 
 **Readme file** : readme.so
+**linkdin profile** : www.linkedin.com/in/charan-r-b04875358
