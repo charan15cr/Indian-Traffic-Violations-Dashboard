@@ -47,7 +47,7 @@ The visualization used is a **tree map** it has all the states present in the da
 ---
 **Violations by year and month**
 
-It shows the number of violations took by place each year and months, along with the total fine collected in each time line.
+It shows the number of violations took place by each year and months, along with the total fine collected in each time line.
 
 * line chart is used for this representation
 
